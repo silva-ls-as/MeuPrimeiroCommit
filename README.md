@@ -7,4 +7,4 @@ git commit\
 git status\
 git push \
 git pull\
-git log\
+git log
