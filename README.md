@@ -7,7 +7,7 @@ git commit\
 git status\
 git push \
 git pull\
-git log
+git log\
 Atividade 4
 Para inicializar o GIT em um novo repositorio: git init\
 Para adicionar as alterações realizadas no repositorio: gitadd .\
