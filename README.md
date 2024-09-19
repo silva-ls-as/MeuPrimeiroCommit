@@ -1,5 +1,5 @@
 # MeuPrimeiroCommit
-Configuração Inicial
+Configuração Inicial\
 git init\
 git clone\
 git add.\
